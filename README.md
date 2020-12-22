@@ -1,2 +1,2 @@
 # hello-word
-Its justa beginning.
+Its just a beginning.Wish it continues.
